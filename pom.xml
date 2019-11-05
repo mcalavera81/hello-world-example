@@ -12,7 +12,6 @@
     <maven.compiler.target>1.6</maven.compiler.target>
   </properties>
 	
-	
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
@@ -21,6 +20,8 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	
+	<!-- Comment2 -->
 
 	<build>
 		<plugins>
