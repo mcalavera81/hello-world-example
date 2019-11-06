@@ -12,6 +12,8 @@ public class MessageTest {
 	@Test
 	public void messageSaysHello() {
 		assertThat(message.sayHello(), containsString("Hello,"));
+		
+		//Comment
 	}
 
 }
