@@ -11,7 +11,6 @@ node('master') {
             sh label: '', script: 'mvn clean install'
         }
 
-
     }
 
 }
