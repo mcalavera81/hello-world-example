@@ -2,6 +2,7 @@ node('master') {
     // some block
     
     checkout scm
+    
 
     stage('build') {
         // some block
